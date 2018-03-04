@@ -1,3 +1,10 @@
+#Tutoriales clave
+- https://help.github.com/articles/setting-up-a-custom-subdomain/
+- https://help.github.com/categories/customizing-github-pages/
+- https://jekyllrb.com/docs/quickstart/
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/luisartola/ftt2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
