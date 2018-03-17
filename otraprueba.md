@@ -5,4 +5,8 @@
   
 <script type="text/javascript">
 console.log($);
+  
+  $.getJSON('https://spreadsheets.google.com/feeds/list/1O69PulSKrQO2vFkpb19GJBYN7C7aCjFgiXGYIefAVqA/og2i2rn/public/values?alt=json').then(a => console.log(a.feed.entry.forEach(e => console.log(JSON.stringify(e)))))
+  
+  
 </script>
