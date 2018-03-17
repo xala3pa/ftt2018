@@ -9,19 +9,23 @@ $.getJSON('https://spreadsheets.google.com/feeds/list/1O69PulSKrQO2vFkpb19GJBYN7
   
 const body = $('body');
   
+  
+  
+  body.append("<h1>Quién</h1><br/>");
+  body.append(e.gsx$timestamp.$t);
+  body.append("<br/>");
+  body.append(e.gsx$tucorreoelectrógeno.$t);
+  body.append("<br/><br/>");
+  body.append("<h2>Qué</h2>");
+  body.append(e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t);
+  body.append("<br/><br/>");
   body.append(e.gsx$_chk2m.$t);
    body.append("<br/>");
   body.append(e.gsx$_cpzh4.$t);
   body.append("<br/>");
   body.append(e.gsx$_cre1l.$t);
-  body.append("<br/>");
-  body.append(e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t);
-  body.append("<br/>");
-  body.append(e.gsx$timestamp.$t);
-  body.append("<br/>");
-  body.append(e.gsx$tucorreoelectrógeno.$t);
   body.append("<br/><br/><br/><br/>");
-  })))
+   })))
   
   
 </script>
