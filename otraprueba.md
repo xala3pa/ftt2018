@@ -10,22 +10,17 @@ $.getJSON('https://spreadsheets.google.com/feeds/list/1O69PulSKrQO2vFkpb19GJBYN7
 const body = $('body');
   
   body.append(e.gsx$_chk2m.$t);
+   body.append("<br/>");
   body.append(e.gsx$_cpzh4.$t);
+  body.append("<br/>");
   body.append(e.gsx$_cre1l.$t);
+  body.append("<br/>");
   body.append(e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t);
+  body.append("<br/>");
   body.append(e.gsx$timestamp.$t);
+  body.append("<br/>");
   body.append(e.gsx$tucorreoelectrógeno.$t);
   body.append("<br/><br/><br/><br/>");
-  
-  
-  console.log(e.gsx$_chk2m.$t);
-  console.log(e.gsx$_cpzh4.$t);
-  console.log(e.gsx$_cre1l.$t);
-  console.log(e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t);
-  console.log(e.gsx$timestamp.$t);
-  console.log(e.gsx$tucorreoelectrógeno.$t);
-    
-    
   })))
   
   
