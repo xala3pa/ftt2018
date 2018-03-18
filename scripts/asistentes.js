@@ -14,4 +14,4 @@ const asistentesHtml  = asistentes.feed.entry
     .map(entryToMarkdown)
     .reduce((a,b) => a+b, '');
 
-fs.writeFileSync("../asistentes.html", `<ul>${asistentesHtml}</ul>`);
+fs.writeFileSync("../asistentes/asistentes.html", `<ul>${asistentesHtml}</ul>`);

@@ -25,7 +25,7 @@ const entries  = formulario.feed.entry
 
 entries.forEach((text, i) => {
     console.log(i);
-    fs.writeFileSync("../" + i + '.md', text)
+    fs.writeFileSync("../experiencias/" + i + '.md', text)
 });
 
 const experienciasHtml = entries.map((text, i) => {
@@ -33,4 +33,4 @@ const experienciasHtml = entries.map((text, i) => {
     return `<li><a href='${link}'>${link}</a></li>`;
 }).reduce((a,b) => a+b, '');
 
-fs.writeFileSync("../experiencias.html", `<ul>${experienciasHtml}</ul>`);
+fs.writeFileSync("../experiencias/experiencias.html", `<ul>${experienciasHtml}</ul>`);
