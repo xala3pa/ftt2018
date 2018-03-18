@@ -1,0 +1,10 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "showdown": "^1.8.6"
+  }
+}
