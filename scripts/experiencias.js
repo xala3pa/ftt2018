@@ -1,3 +1,8 @@
+const fs = require('fs');
+//const showdown = require('showdown');
+//var converter = new showdown.Converter();
+
+
 const entryToMarkdown = e => {
     return `# Quién
 ${e.gsx$tucorreoelectrógeno.$t}
@@ -12,12 +17,7 @@ ${e.gsx$_chk2m.$t}
 `;
 };
 
-const fs = require('fs');
-const showdown = require('showdown');
-var converter = new showdown.Converter();
-
 const formulario = JSON.parse(fs.readFileSync(__dirname + '/ftt-data.json', 'utf8'));
-
 const entries  = formulario.feed.entry
     .map(entryToMarkdown);
 //    .reduce((a,b) => a+b, '<hr/>');
@@ -27,3 +27,10 @@ entries.forEach((text, i) => {
     console.log(i);
     fs.writeFileSync("../" + i + '.md', text)
 });
+
+const experienciasHtml = entries.map((text, i) => {
+    const link = `/experiencias/${i}.html`;
+    return `<li><a href='${link}'>${link}</a></li>`;
+}).reduce((a,b) => a+b, '');
+
+fs.writeFileSync("../experiencias.html", `<ul>${experienciasHtml}</ul>`);
