@@ -17,7 +17,7 @@ ${e.gsx$_chk2m.$t}
 `;
 };
 
-const formulario = JSON.parse(fs.readFileSync(__dirname + '/ftt-data.json', 'utf8'));
+const formulario = JSON.parse(fs.readFileSync(__dirname + '/experiencias.json', 'utf8'));
 const entries  = formulario.feed.entry
     .map(entryToMarkdown);
 //    .reduce((a,b) => a+b, '<hr/>');
