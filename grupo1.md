@@ -1,4 +1,4 @@
-<hr/># Quién
+# Quién
 dgonzalezdiez@gmail.com
 # Qué
 Integración continua basada en git+jenkins
