@@ -48,6 +48,13 @@ const entryToMarkdown = e => {
 `;
 };
 
+const asistentesGruposHtml = grupos.map(grupo => {
+    return `<li><a href='asistentes-grupos/grupo${grupo.id}.html'>${grupo.name}</a></li>`;
+}).reduce((a,b) => a+b, '');
+
+fs.writeFileSync('../asistentes-grupos/grupos.html', `<ul>${asistentesGruposHtml}</ul>`);
+
+
 const asistentes = JSON.parse(fs.readFileSync(__dirname + '/asistentes.json', 'utf8'));
 
 const entries = grupos.map( grupo => {
