@@ -6,6 +6,7 @@
  
 # Sábado assitentes
 
+- trade-offs
 - 8:30 los capitanes agrupan a sus equipos
 - 8:45 sale el bus
 - 9:00 llegamos sidrería
