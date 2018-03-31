@@ -5,31 +5,31 @@
 - Isidro Merayo
 - Twitter : [isidromerayo](https://twitter.com/isidromerayo)
 - [Experiencia](http:://ftt.programania.net/experiencias/2.html) 
-- ![Foto]()
+- ![Foto](https://pbs.twimg.com/profile_images/799554794641915904/GLK1iYLQ_400x400.jpg)
 - Sergio Sáenz
 - Twitter : [devjuggler](https://twitter.com/devjuggler)
 - [Experiencia](http:://ftt.programania.net/experiencias/3.html) 
-- ![Foto]()
+- ![Foto](https://pbs.twimg.com/profile_images/668697242589601792/EdIa-P9y_400x400.jpg)
 - Álvaro García Loaisa
 - Twitter : [aloaisa](https://twitter.com/aloaisa)
 - [Experiencia](http:://ftt.programania.net/experiencias/4.html) 
-- ![Foto]()
+- ![Foto](https://pbs.twimg.com/profile_images/378800000419113837/bdbf19ad7150001b78aedeccce5010d3_400x400.jpeg)
 - Agustín Herranz
 - Twitter : [tinproject](https://twitter.com/tinproject)
 - [Experiencia](http:://ftt.programania.net/experiencias/5.html) 
-- ![Foto]()
+- ![Foto](https://pbs.twimg.com/profile_images/783306193133506561/OsUy99W2_400x400.jpg)
 - Marta Manso de las Heras
 - Twitter : [ladypain](https://twitter.com/ladypain)
 - [Experiencia](http:://ftt.programania.net/experiencias/6.html) 
-- ![Foto]()
+- ![Foto](https://pbs.twimg.com/profile_images/937787824010612736/iYyD3tIz_400x400.jpg)
 - Fran Mosteiro
 - Twitter : [fran_mosteiro](https://twitter.com/fran_mosteiro)
 - [Experiencia](http:://ftt.programania.net/experiencias/7.html) 
-- ![Foto]()
+- ![Foto](https://pbs.twimg.com/profile_images/960181039799918592/XhrHGDf7_400x400.jpg)
 - Gorka Moreno
 - Twitter : [gorkma](https://twitter.com/gorkma)
 - [Experiencia](http:://ftt.programania.net/experiencias/8.html) 
-- ![Foto]()
+- ![Foto](https://pbs.twimg.com/profile_images/476963726214856704/erDHC1lk_400x400.jpeg)
 - Javier Gamarra
 - Twitter : [nhpatt](https://twitter.com/nhpatt)
 - [Experiencia](http:://ftt.programania.net/experiencias/9.html) 
