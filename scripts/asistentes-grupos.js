@@ -52,7 +52,7 @@ const asistentesGruposHtml = grupos.map(grupo => {
     return `<li><a href='/asistentes-grupos/${grupo.id}.html'>${grupo.name}</a></li>`;
 }).reduce((a,b) => a+b, '');
 
-fs.writeFileSync('../asistentes-grupos/grupos.html', `<ul>${asistentesGruposHtml}</ul>`);
+fs.writeFileSync('../asistentes-grupos/grupos.md', `<ul>${asistentesGruposHtml}</ul>`);
 
 
 const asistentes = JSON.parse(fs.readFileSync(__dirname + '/asistentes.json', 'utf8'));
@@ -70,5 +70,5 @@ const entries = grupos.map( grupo => {
 });
 
 entries.forEach((text, i) => {
-    fs.writeFileSync("../asistentes-grupos/" + (i + 1) + '.html', text)
+    fs.writeFileSync("../asistentes-grupos/" + (i + 1) + '.md', text)
 });
