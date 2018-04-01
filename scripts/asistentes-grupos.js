@@ -62,7 +62,7 @@ const entries = grupos.map( grupo => {
     let s = filtrados
         .map(entryToMarkdown)
         .reduce((a, b) => a + b, '');
-    return  `<h1>Grupo: ${grupo.name}</h1> 
+    return  `<h1>${grupo.name}</h1> 
 
 ${s} `;
 }).reduce((a,b) => a+b, '');
