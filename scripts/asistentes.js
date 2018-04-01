@@ -8,9 +8,19 @@ const entryToMarkdown = e => {
     return a+"\n"+b+"\n"+c+"\n"+d+"\n";
 };
 
+const entryToHtml = e => `
+<div class="card">
+  <img src="${e.gsx$foto.$t}" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>${e.gsx$nombre.$t}</b></h4> 
+    <p>Architect & Engineer</p> 
+  </div>
+</div>
+`;
+
 const asistentes = JSON.parse(fs.readFileSync(__dirname + '/asistentes.json', 'utf8'));
 const asistentesHtml  = asistentes.feed.entry
-    .map(entryToMarkdown)
+    .map(entryToHtml)
     .reduce((a,b) => a+b, '');
 
 fs.writeFileSync("../asistentes/asistentes.md", `${asistentesHtml}`);
