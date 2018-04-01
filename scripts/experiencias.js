@@ -19,11 +19,12 @@ const entries  = formulario.feed.entry
     .map(e => {
         const email = e.gsx$tucorreoelectrógeno.$t;
         const quien = emailToId[email.toLowerCase()];
+        let titulo = e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t;
         const text =  `# Quién
 ${quien.name}
 
 # Qué
-${e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t}
+${titulo}
 
 # Por qué
 ${e.gsx$_cpzh4.$t}
@@ -36,6 +37,8 @@ ${e.gsx$_chk2m.$t}
 `;
         return {
             id: quien.id,
+            name: quien.name,
+            title: titulo,
             text: text
         };
 });
@@ -46,7 +49,7 @@ entries.forEach((obj) => {
 
 const experienciasHtml = entries.map((obj) => {
     const link = `/experiencias/${obj.id}.html`;
-    return `<li><a href='${link}'>${link}</a></li>`;
+    return `<li><a href='${link}'>${obj.name} - ${obj.title}</a></li>`;
 }).reduce((a,b) => a+b, '');
 
 fs.writeFileSync("../experiencias/experiencias.md", `<ul>${experienciasHtml}</ul>`);
