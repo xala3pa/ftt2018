@@ -53,15 +53,15 @@ const entries = grupos.map(grupo => {
 
     const s = filtrados
         .map(e => {
-            const a = `- ${e.gsx$nombre.$t}`;
-            const b = `- Twitter : [${e.gsx$twitter.$t}](https://twitter.com/${e.gsx$twitter.$t})`;
-            const c = `- [Experiencia](http://ftt.programania.net/experiencias/${e.gsx$id.$t}.html) `;
-            const d = `- ![Foto](${e.gsx$foto.$t})`;
-            return a + "\n" + b + "\n" + c + "\n" + d + "\n";
-        }).reduce((a, b) => a + b, '');
-    let grupoContent = `<h1>${grupo.name}</h1> 
+            const a = `${e.gsx$nombre.$t}`;
+            const b = `[${e.gsx$twitter.$t}](https://twitter.com/${e.gsx$twitter.$t})`;
+            const c = `[Experiencia](http://ftt.programania.net/experiencias/${e.gsx$id.$t}.html) `;
+            return a + " | " + b + " | " + c + "\n";
+        }).reduce((a, b) => a + b, "");
+    const grupoContent = `# ${grupo.name} 
 
 ${s} `;
+
     return {
         id: grupo.id,
         name: grupo.name,
