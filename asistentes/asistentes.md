@@ -4,7 +4,7 @@
   <div class="container">
     <h4><b>Asier Ramos</b></h4> 
     <p><a href="/experiencias/1.html">experiencia 1</a></p> 
-    <p><a href="/experiencias/1.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo1.html">Grupo 1</a></p> 
   </div>
 </div>
 
@@ -13,7 +13,7 @@
   <div class="container">
     <h4><b>Isidro Merayo</b></h4> 
     <p><a href="/experiencias/2.html">experiencia 2</a></p> 
-    <p><a href="/experiencias/2.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo1.html">Grupo 1</a></p> 
   </div>
 </div>
 
@@ -22,7 +22,7 @@
   <div class="container">
     <h4><b>Sergio Sáenz</b></h4> 
     <p><a href="/experiencias/3.html">experiencia 3</a></p> 
-    <p><a href="/experiencias/3.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo9.html">Grupo 9</a></p> 
   </div>
 </div>
 
@@ -31,7 +31,7 @@
   <div class="container">
     <h4><b>Álvaro García Loaisa</b></h4> 
     <p><a href="/experiencias/4.html">experiencia 4</a></p> 
-    <p><a href="/experiencias/4.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo7.html">Grupo 7</a></p> 
   </div>
 </div>
 
@@ -40,7 +40,7 @@
   <div class="container">
     <h4><b>Agustín Herranz</b></h4> 
     <p><a href="/experiencias/5.html">experiencia 5</a></p> 
-    <p><a href="/experiencias/5.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo7.html">Grupo 7</a></p> 
   </div>
 </div>
 
@@ -49,7 +49,7 @@
   <div class="container">
     <h4><b>Marta Manso de las Heras</b></h4> 
     <p><a href="/experiencias/6.html">experiencia 6</a></p> 
-    <p><a href="/experiencias/6.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo2.html">Grupo 2</a></p> 
   </div>
 </div>
 
@@ -58,7 +58,7 @@
   <div class="container">
     <h4><b>Fran Mosteiro</b></h4> 
     <p><a href="/experiencias/7.html">experiencia 7</a></p> 
-    <p><a href="/experiencias/7.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo4.html">Grupo 4</a></p> 
   </div>
 </div>
 
@@ -67,7 +67,7 @@
   <div class="container">
     <h4><b>Gorka Moreno</b></h4> 
     <p><a href="/experiencias/8.html">experiencia 8</a></p> 
-    <p><a href="/experiencias/8.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -76,7 +76,7 @@
   <div class="container">
     <h4><b>Javier Gamarra</b></h4> 
     <p><a href="/experiencias/9.html">experiencia 9</a></p> 
-    <p><a href="/experiencias/9.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo6.html">Grupo 6</a></p> 
   </div>
 </div>
 
@@ -85,7 +85,7 @@
   <div class="container">
     <h4><b>Endika García</b></h4> 
     <p><a href="/experiencias/10.html">experiencia 10</a></p> 
-    <p><a href="/experiencias/10.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo8.html">Grupo 8</a></p> 
   </div>
 </div>
 
@@ -94,7 +94,7 @@
   <div class="container">
     <h4><b>Joaquin Engelmo Moriche</b></h4> 
     <p><a href="/experiencias/11.html">experiencia 11</a></p> 
-    <p><a href="/experiencias/11.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo1.html">Grupo 1</a></p> 
   </div>
 </div>
 
@@ -103,7 +103,7 @@
   <div class="container">
     <h4><b>Fernando Gil</b></h4> 
     <p><a href="/experiencias/12.html">experiencia 12</a></p> 
-    <p><a href="/experiencias/12.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo7.html">Grupo 7</a></p> 
   </div>
 </div>
 
@@ -112,7 +112,7 @@
   <div class="container">
     <h4><b>Imanol Pinto</b></h4> 
     <p><a href="/experiencias/13.html">experiencia 13</a></p> 
-    <p><a href="/experiencias/13.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo1.html">Grupo 1</a></p> 
   </div>
 </div>
 
@@ -121,7 +121,7 @@
   <div class="container">
     <h4><b>Alejandro García</b></h4> 
     <p><a href="/experiencias/14.html">experiencia 14</a></p> 
-    <p><a href="/experiencias/14.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo3.html">Grupo 3</a></p> 
   </div>
 </div>
 
@@ -130,7 +130,7 @@
   <div class="container">
     <h4><b>Yeray Darias </b></h4> 
     <p><a href="/experiencias/15.html">experiencia 15</a></p> 
-    <p><a href="/experiencias/15.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo1.html">Grupo 1</a></p> 
   </div>
 </div>
 
@@ -139,7 +139,7 @@
   <div class="container">
     <h4><b>Juan Ignacio Sánchez Lara</b></h4> 
     <p><a href="/experiencias/16.html">experiencia 16</a></p> 
-    <p><a href="/experiencias/16.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo6.html">Grupo 6</a></p> 
   </div>
 </div>
 
@@ -148,7 +148,7 @@
   <div class="container">
     <h4><b>Jorge Uriarte</b></h4> 
     <p><a href="/experiencias/17.html">experiencia 17</a></p> 
-    <p><a href="/experiencias/17.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -157,7 +157,7 @@
   <div class="container">
     <h4><b>Rubén Eguiluz</b></h4> 
     <p><a href="/experiencias/18.html">experiencia 18</a></p> 
-    <p><a href="/experiencias/18.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo5.html">Grupo 5</a></p> 
   </div>
 </div>
 
@@ -166,7 +166,7 @@
   <div class="container">
     <h4><b>Xabier Sáez de Ocáriz</b></h4> 
     <p><a href="/experiencias/19.html">experiencia 19</a></p> 
-    <p><a href="/experiencias/19.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -175,7 +175,7 @@
   <div class="container">
     <h4><b>Pablo Albizu</b></h4> 
     <p><a href="/experiencias/20.html">experiencia 20</a></p> 
-    <p><a href="/experiencias/20.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo6.html">Grupo 6</a></p> 
   </div>
 </div>
 
@@ -184,7 +184,7 @@
   <div class="container">
     <h4><b>Jerónimo López</b></h4> 
     <p><a href="/experiencias/21.html">experiencia 21</a></p> 
-    <p><a href="/experiencias/21.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo9.html">Grupo 9</a></p> 
   </div>
 </div>
 
@@ -193,7 +193,7 @@
   <div class="container">
     <h4><b>Jordi Marti</b></h4> 
     <p><a href="/experiencias/22.html">experiencia 22</a></p> 
-    <p><a href="/experiencias/22.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo2.html">Grupo 2</a></p> 
   </div>
 </div>
 
@@ -202,7 +202,7 @@
   <div class="container">
     <h4><b>Javier Acero</b></h4> 
     <p><a href="/experiencias/23.html">experiencia 23</a></p> 
-    <p><a href="/experiencias/23.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo6.html">Grupo 6</a></p> 
   </div>
 </div>
 
@@ -211,7 +211,7 @@
   <div class="container">
     <h4><b>Diana Aceves</b></h4> 
     <p><a href="/experiencias/24.html">experiencia 24</a></p> 
-    <p><a href="/experiencias/24.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo3.html">Grupo 3</a></p> 
   </div>
 </div>
 
@@ -220,7 +220,7 @@
   <div class="container">
     <h4><b>Xabier Amutxastegi</b></h4> 
     <p><a href="/experiencias/25.html">experiencia 25</a></p> 
-    <p><a href="/experiencias/25.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo3.html">Grupo 3</a></p> 
   </div>
 </div>
 
@@ -229,7 +229,7 @@
   <div class="container">
     <h4><b>Juan Miguel Imaz</b></h4> 
     <p><a href="/experiencias/26.html">experiencia 26</a></p> 
-    <p><a href="/experiencias/26.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo3.html">Grupo 3</a></p> 
   </div>
 </div>
 
@@ -238,7 +238,7 @@
   <div class="container">
     <h4><b>Iker Mariñelarena </b></h4> 
     <p><a href="/experiencias/27.html">experiencia 27</a></p> 
-    <p><a href="/experiencias/27.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo5.html">Grupo 5</a></p> 
   </div>
 </div>
 
@@ -247,7 +247,7 @@
   <div class="container">
     <h4><b>Felix Vela</b></h4> 
     <p><a href="/experiencias/28.html">experiencia 28</a></p> 
-    <p><a href="/experiencias/28.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo9.html">Grupo 9</a></p> 
   </div>
 </div>
 
@@ -256,7 +256,7 @@
   <div class="container">
     <h4><b>Alvaro Salazar</b></h4> 
     <p><a href="/experiencias/29.html">experiencia 29</a></p> 
-    <p><a href="/experiencias/29.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo1.html">Grupo 1</a></p> 
   </div>
 </div>
 
@@ -265,7 +265,7 @@
   <div class="container">
     <h4><b>Sergio Jiménez Mateo</b></h4> 
     <p><a href="/experiencias/30.html">experiencia 30</a></p> 
-    <p><a href="/experiencias/30.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo1.html">Grupo 1</a></p> 
   </div>
 </div>
 
@@ -274,7 +274,7 @@
   <div class="container">
     <h4><b>Jorge Maroto</b></h4> 
     <p><a href="/experiencias/31.html">experiencia 31</a></p> 
-    <p><a href="/experiencias/31.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo7.html">Grupo 7</a></p> 
   </div>
 </div>
 
@@ -283,7 +283,7 @@
   <div class="container">
     <h4><b>Gonzalo Ayuso</b></h4> 
     <p><a href="/experiencias/32.html">experiencia 32</a></p> 
-    <p><a href="/experiencias/32.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -292,7 +292,7 @@
   <div class="container">
     <h4><b>Javier Anaya Martinez</b></h4> 
     <p><a href="/experiencias/33.html">experiencia 33</a></p> 
-    <p><a href="/experiencias/33.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -301,7 +301,7 @@
   <div class="container">
     <h4><b>Jose Ignacio Andrés</b></h4> 
     <p><a href="/experiencias/34.html">experiencia 34</a></p> 
-    <p><a href="/experiencias/34.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo4.html">Grupo 4</a></p> 
   </div>
 </div>
 
@@ -310,7 +310,7 @@
   <div class="container">
     <h4><b>Rodrigo Gómez</b></h4> 
     <p><a href="/experiencias/35.html">experiencia 35</a></p> 
-    <p><a href="/experiencias/35.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo5.html">Grupo 5</a></p> 
   </div>
 </div>
 
@@ -319,7 +319,7 @@
   <div class="container">
     <h4><b>Rubén Bernardez</b></h4> 
     <p><a href="/experiencias/36.html">experiencia 36</a></p> 
-    <p><a href="/experiencias/36.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo9.html">Grupo 9</a></p> 
   </div>
 </div>
 
@@ -328,7 +328,7 @@
   <div class="container">
     <h4><b>Sara Ortega Muñoz</b></h4> 
     <p><a href="/experiencias/37.html">experiencia 37</a></p> 
-    <p><a href="/experiencias/37.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo8.html">Grupo 8</a></p> 
   </div>
 </div>
 
@@ -337,7 +337,7 @@
   <div class="container">
     <h4><b>Eduardo ferro</b></h4> 
     <p><a href="/experiencias/38.html">experiencia 38</a></p> 
-    <p><a href="/experiencias/38.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo4.html">Grupo 4</a></p> 
   </div>
 </div>
 
@@ -346,7 +346,7 @@
   <div class="container">
     <h4><b>Beñat Espina</b></h4> 
     <p><a href="/experiencias/39.html">experiencia 39</a></p> 
-    <p><a href="/experiencias/39.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo5.html">Grupo 5</a></p> 
   </div>
 </div>
 
@@ -355,7 +355,7 @@
   <div class="container">
     <h4><b>Fernando Fariña</b></h4> 
     <p><a href="/experiencias/40.html">experiencia 40</a></p> 
-    <p><a href="/experiencias/40.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo3.html">Grupo 3</a></p> 
   </div>
 </div>
 
@@ -364,7 +364,7 @@
   <div class="container">
     <h4><b>Irune prado</b></h4> 
     <p><a href="/experiencias/41.html">experiencia 41</a></p> 
-    <p><a href="/experiencias/41.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo9.html">Grupo 9</a></p> 
   </div>
 </div>
 
@@ -373,7 +373,7 @@
   <div class="container">
     <h4><b>Nestor Salceda</b></h4> 
     <p><a href="/experiencias/42.html">experiencia 42</a></p> 
-    <p><a href="/experiencias/42.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo6.html">Grupo 6</a></p> 
   </div>
 </div>
 
@@ -382,7 +382,7 @@
   <div class="container">
     <h4><b>Dani Latorre</b></h4> 
     <p><a href="/experiencias/43.html">experiencia 43</a></p> 
-    <p><a href="/experiencias/43.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -391,7 +391,7 @@
   <div class="container">
     <h4><b>Alberto (APA)</b></h4> 
     <p><a href="/experiencias/44.html">experiencia 44</a></p> 
-    <p><a href="/experiencias/44.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -400,7 +400,7 @@
   <div class="container">
     <h4><b>Itziar López</b></h4> 
     <p><a href="/experiencias/45.html">experiencia 45</a></p> 
-    <p><a href="/experiencias/45.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo8.html">Grupo 8</a></p> 
   </div>
 </div>
 
@@ -409,7 +409,7 @@
   <div class="container">
     <h4><b>Usue Napal</b></h4> 
     <p><a href="/experiencias/46.html">experiencia 46</a></p> 
-    <p><a href="/experiencias/46.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo8.html">Grupo 8</a></p> 
   </div>
 </div>
 
@@ -418,7 +418,7 @@
   <div class="container">
     <h4><b>Alez Epelde</b></h4> 
     <p><a href="/experiencias/47.html">experiencia 47</a></p> 
-    <p><a href="/experiencias/47.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -427,7 +427,7 @@
   <div class="container">
     <h4><b>Guille</b></h4> 
     <p><a href="/experiencias/48.html">experiencia 48</a></p> 
-    <p><a href="/experiencias/48.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -436,7 +436,7 @@
   <div class="container">
     <h4><b>David</b></h4> 
     <p><a href="/experiencias/49.html">experiencia 49</a></p> 
-    <p><a href="/experiencias/49.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -445,7 +445,7 @@
   <div class="container">
     <h4><b>Luis</b></h4> 
     <p><a href="/experiencias/50.html">experiencia 50</a></p> 
-    <p><a href="/experiencias/50.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -454,7 +454,7 @@
   <div class="container">
     <h4><b>Alejandra Goicoechea </b></h4> 
     <p><a href="/experiencias/51.html">experiencia 51</a></p> 
-    <p><a href="/experiencias/51.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo10.html">Grupo 10</a></p> 
   </div>
 </div>
 
@@ -463,7 +463,7 @@
   <div class="container">
     <h4><b>Jimena Martínez</b></h4> 
     <p><a href="/experiencias/52.html">experiencia 52</a></p> 
-    <p><a href="/experiencias/52.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo2.html">Grupo 2</a></p> 
   </div>
 </div>
 
@@ -472,6 +472,6 @@
   <div class="container">
     <h4><b>Rafa Fernández</b></h4> 
     <p><a href="/experiencias/53.html">experiencia 53</a></p> 
-    <p><a href="/experiencias/53.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo3.html">Grupo 3</a></p> 
   </div>
 </div>

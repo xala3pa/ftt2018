@@ -8,7 +8,7 @@ const asistentesHtml  = asistentes.feed.entry
   <div class="container">
     <h4><b>${e.gsx$nombre.$t}</b></h4> 
     <p><a href="/experiencias/${e.gsx$id.$t}.html">experiencia ${e.gsx$id.$t}</a></p> 
-    <p><a href="/experiencias/${e.gsx$id.$t}.html">Grupo xx</a></p> 
+    <p><a href="/asistentes-grupos/grupo${e.gsx$grupo.$t}.html">Grupo ${e.gsx$grupo.$t}</a></p> 
   </div>
 </div>
 `).reduce((a,b) => a+b, '');
