@@ -7,3 +7,7 @@ Juan Miguel Imaz | [akaJumi](https://twitter.com/akaJumi) | [Experiencia](http:/
 Fernando Fariña | [penniath](https://twitter.com/penniath) | [Experiencia](http://ftt.programania.net/experiencias/40.html) 
 Rafa Fernández | [](https://twitter.com/) | [Experiencia](http://ftt.programania.net/experiencias/53.html) 
  
+
+## Conclusiones del grupo
+- ...
+- ...

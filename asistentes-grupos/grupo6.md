@@ -6,3 +6,7 @@ Pablo Albizu | [pabloalbizu](https://twitter.com/pabloalbizu) | [Experiencia](ht
 Javier Acero | [jacegu](https://twitter.com/jacegu) | [Experiencia](http://ftt.programania.net/experiencias/23.html) 
 Nestor Salceda | [nestorsalceda](https://twitter.com/nestorsalceda) | [Experiencia](http://ftt.programania.net/experiencias/42.html) 
  
+
+## Conclusiones del grupo
+- ...
+- ...

@@ -8,3 +8,7 @@ Yeray Darias  | [ydarias](https://twitter.com/ydarias) | [Experiencia](http://ft
 Alvaro Salazar | [xala3pa](https://twitter.com/xala3pa) | [Experiencia](http://ftt.programania.net/experiencias/29.html) 
 Sergio Jiménez Mateo | [sjimenezmateo](https://twitter.com/sjimenezmateo) | [Experiencia](http://ftt.programania.net/experiencias/30.html) 
  
+
+## Conclusiones del grupo
+- ...
+- ...

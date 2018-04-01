@@ -5,3 +5,7 @@ Agustín Herranz | [tinproject](https://twitter.com/tinproject) | [Experiencia](
 Fernando Gil | [chewiebrian](https://twitter.com/chewiebrian) | [Experiencia](http://ftt.programania.net/experiencias/12.html) 
 Jorge Maroto | [patoroco](https://twitter.com/patoroco) | [Experiencia](http://ftt.programania.net/experiencias/31.html) 
  
+
+## Conclusiones del grupo
+- ...
+- ...

@@ -46,7 +46,7 @@ const grupos = [
 const asistentes = JSON.parse(fs.readFileSync(__dirname + '/asistentes.json', 'utf8'));
 
 const entries = grupos.map(grupo => {
-    let filtrados = asistentes.feed.entry
+    const filtrados = asistentes.feed.entry
         .filter(asistente => {
             return asistente.gsx$grupo.$t === grupo.id;
         });
@@ -60,7 +60,12 @@ const entries = grupos.map(grupo => {
         }).reduce((a, b) => a + b, "");
     const grupoContent = `# ${grupo.name} 
 
-${s} `;
+${s} 
+
+## Conclusiones del grupo
+- ...
+- ...
+`;
 
     return {
         id: grupo.id,
@@ -72,5 +77,3 @@ ${s} `;
 entries.forEach(g => {
     fs.writeFileSync('../asistentes-grupos/grupo' + g.id + '.md', g.content);
 });
-
-

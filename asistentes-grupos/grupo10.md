@@ -13,3 +13,7 @@ David | [penguinjournals](https://twitter.com/penguinjournals) | [Experiencia](h
 Luis | [artolamola](https://twitter.com/artolamola) | [Experiencia](http://ftt.programania.net/experiencias/50.html) 
 Alejandra Goicoechea  | [rocknrollesque](https://twitter.com/rocknrollesque) | [Experiencia](http://ftt.programania.net/experiencias/51.html) 
  
+
+## Conclusiones del grupo
+- ...
+- ...
