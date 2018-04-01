@@ -3,39 +3,43 @@ const fs = require('fs');
 const grupos = [
     {
         id: '1',
-        name: 'Grupo 1'
+        name: 'Grupo 1: trolleando microservicios'
     },
     {
         id: '2',
-        name: 'Grupo 2'
+        name: 'Grupo 2: Product owner'
     },
     {
         id: '3',
-        name: 'Grupo 3'
+        name: 'Grupo 3: frontend'
     },
     {
         id: '4',
-        name: 'Grupo 4'
+        name: 'Grupo 4: equipos'
     },
     {
         id: '5',
-        name: 'Grupo 5'
+        name: 'Grupo 5: coding 1'
     },
     {
         id: '6',
-        name: 'Grupo 6'
+        name: 'Grupo 6: coding 2'
     },
     {
         id: '7',
-        name: 'Grupo 7'
+        name: 'Grupo 7: AWS/GAE/ETC'
     },
     {
         id: '8',
-        name: 'Grupo 8'
+        name: 'Grupo 8: Mobile'
     },
     {
         id: '9',
-        name: 'Grupo 9'
+        name: 'Grupo 9: Otros'
+    },
+    {
+        id: '9',
+        name: 'Grupo 10: tardones'
     }
 ];
 

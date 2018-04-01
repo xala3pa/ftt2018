@@ -6,12 +6,16 @@ const fs = require('fs');
 const entryToMarkdown = e => {
     return `# Quién
 ${e.gsx$tucorreoelectrógeno.$t}
+
 # Qué
 ${e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t}
+
 # Por qué
 ${e.gsx$_cpzh4.$t}
+
 # Cuándo
 ${e.gsx$_cre1l.$t}
+
 # Links
 ${e.gsx$_chk2m.$t}
 `;
