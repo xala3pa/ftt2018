@@ -1,4 +1,4 @@
-<h1>Grupo: Grupo 1: trolleando microservicios</h1> 
+<h1>Grupo 1: trolleando microservicios</h1> 
 
 - Asier Ramos
 - Twitter : [uthopiko](https://twitter.com/uthopiko)
@@ -28,7 +28,7 @@
 - Twitter : [sjimenezmateo](https://twitter.com/sjimenezmateo)
 - [Experiencia](http://ftt.programania.net/experiencias/30.html) 
 - ![Foto](https://pbs.twimg.com/profile_images/900031410542706688/T7TWINaJ_400x400.jpg)
- <h1>Grupo: Grupo 2: Product owner</h1> 
+ <h1>Grupo 2: Product owner</h1> 
 
 - Marta Manso de las Heras
 - Twitter : [ladypain](https://twitter.com/ladypain)
@@ -42,7 +42,7 @@
 - Twitter : [JimenaMramos](https://twitter.com/JimenaMramos)
 - [Experiencia](http://ftt.programania.net/experiencias/52.html) 
 - ![Foto](https://pbs.twimg.com/profile_images/378800000858447725/YqAFNvCr_400x400.jpeg)
- <h1>Grupo: Grupo 3: frontend</h1> 
+ <h1>Grupo 3: frontend</h1> 
 
 - Alejandro García
 - Twitter : [janogarcia](https://twitter.com/janogarcia)
@@ -68,7 +68,7 @@
 - Twitter : [](https://twitter.com/)
 - [Experiencia](http://ftt.programania.net/experiencias/53.html) 
 - ![Foto]()
- <h1>Grupo: Grupo 4: equipos</h1> 
+ <h1>Grupo 4: equipos</h1> 
 
 - Fran Mosteiro
 - Twitter : [fran_mosteiro](https://twitter.com/fran_mosteiro)
@@ -82,7 +82,7 @@
 - Twitter : [eferro](https://twitter.com/eferro)
 - [Experiencia](http://ftt.programania.net/experiencias/38.html) 
 - ![Foto](https://pbs.twimg.com/profile_images/378800000201347202/03bef1fe4f818c98f4d637d9f949dae9_400x400.jpeg)
- <h1>Grupo: Grupo 5: coding 1</h1> 
+ <h1>Grupo 5: coding 1</h1> 
 
 - Rubén Eguiluz
 - Twitter : [regiluze](https://twitter.com/regiluze)
@@ -100,7 +100,7 @@
 - Twitter : [benatespina](https://twitter.com/benatespina)
 - [Experiencia](http://ftt.programania.net/experiencias/39.html) 
 - ![Foto]()
- <h1>Grupo: Grupo 6: coding 2</h1> 
+ <h1>Grupo 6: coding 2</h1> 
 
 - Javier Gamarra
 - Twitter : [nhpatt](https://twitter.com/nhpatt)
@@ -122,7 +122,7 @@
 - Twitter : [nestorsalceda](https://twitter.com/nestorsalceda)
 - [Experiencia](http://ftt.programania.net/experiencias/42.html) 
 - ![Foto](https://pbs.twimg.com/profile_images/894206073883721728/l_t7xMK5_400x400.jpg)
- <h1>Grupo: Grupo 7: AWS/GAE/ETC</h1> 
+ <h1>Grupo 7: AWS/GAE/ETC</h1> 
 
 - Álvaro García Loaisa
 - Twitter : [aloaisa](https://twitter.com/aloaisa)
@@ -140,7 +140,7 @@
 - Twitter : [patoroco](https://twitter.com/patoroco)
 - [Experiencia](http://ftt.programania.net/experiencias/31.html) 
 - ![Foto](https://pbs.twimg.com/profile_images/865883926182625282/Jkd9LGp8_400x400.jpg)
- <h1>Grupo: Grupo 8: Mobile</h1> 
+ <h1>Grupo 8: Mobile</h1> 
 
 - Endika García
 - Twitter : [endikabatura](https://twitter.com/endikabatura)
@@ -158,7 +158,7 @@
 - Twitter : [iusTo](https://twitter.com/iusTo)
 - [Experiencia](http://ftt.programania.net/experiencias/46.html) 
 - ![Foto](https://pbs.twimg.com/profile_images/777856317935484928/FuGNKfo8_400x400.jpg)
- <h1>Grupo: Grupo 9: Otros</h1> 
+ <h1>Grupo 9: Otros</h1> 
 
 - Sergio Sáenz
 - Twitter : [devjuggler](https://twitter.com/devjuggler)
@@ -180,7 +180,7 @@
 - Twitter : [wideawakening](https://twitter.com/wideawakening)
 - [Experiencia](http://ftt.programania.net/experiencias/41.html) 
 - ![Foto](https://pbs.twimg.com/profile_images/56756978/tatoo_400x400.png)
- <h1>Grupo: Grupo 10: tardones</h1> 
+ <h1>Grupo 10: tardones</h1> 
 
 - Gorka Moreno
 - Twitter : [gorkma](https://twitter.com/gorkma)

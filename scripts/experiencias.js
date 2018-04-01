@@ -1,8 +1,4 @@
 const fs = require('fs');
-//const showdown = require('showdown');
-//var converter = new showdown.Converter();
-
-
 const emailToId = {};
 const asistentes = JSON.parse(fs.readFileSync(__dirname + '/asistentes.json', 'utf8'));
 asistentes.feed.entry
@@ -13,7 +9,6 @@ asistentes.feed.entry
         };
     });
 
-console.log(emailToId);
 const formulario = JSON.parse(fs.readFileSync(__dirname + '/experiencias.json', 'utf8'));
 const entries  = formulario.feed.entry
     .map(e => {
@@ -46,10 +41,3 @@ ${e.gsx$_chk2m.$t}
 entries.forEach((obj) => {
     fs.writeFileSync("../experiencias/" + obj.id + '.md', obj.text)
 });
-
-const experienciasHtml = entries.map((obj) => {
-    const link = `/experiencias/${obj.id}.html`;
-    return `<li><a href='${link}'>${obj.name} - ${obj.title}</a></li>`;
-}).reduce((a,b) => a+b, '');
-
-fs.writeFileSync("../experiencias/experiencias.md", `<ul>${experienciasHtml}</ul>`);
