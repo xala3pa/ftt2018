@@ -43,29 +43,34 @@ const grupos = [
     }
 ];
 
-const entryToMarkdown = e => {
-    const a = `- ${e.gsx$nombre.$t}`;
-    const b = `- Twitter : [${e.gsx$twitter.$t}](https://twitter.com/${e.gsx$twitter.$t})`;
-    const c = `- [Experiencia](http://ftt.programania.net/experiencias/${e.gsx$id.$t}.html) `;
-    const d = `- ![Foto](${e.gsx$foto.$t})`;
-    return a+"\n"+b+"\n"+c+"\n"+d+"\n";
-};
-
 const asistentes = JSON.parse(fs.readFileSync(__dirname + '/asistentes.json', 'utf8'));
 
-const entries = grupos.map( grupo => {
+const entries = grupos.map(grupo => {
     let filtrados = asistentes.feed.entry
         .filter(asistente => {
             return asistente.gsx$grupo.$t === grupo.id;
         });
 
-    let s = filtrados
-        .map(entryToMarkdown)
-        .reduce((a, b) => a + b, '');
-    return  `<h1>${grupo.name}</h1> 
+    const s = filtrados
+        .map(e => {
+            const a = `- ${e.gsx$nombre.$t}`;
+            const b = `- Twitter : [${e.gsx$twitter.$t}](https://twitter.com/${e.gsx$twitter.$t})`;
+            const c = `- [Experiencia](http://ftt.programania.net/experiencias/${e.gsx$id.$t}.html) `;
+            const d = `- ![Foto](${e.gsx$foto.$t})`;
+            return a + "\n" + b + "\n" + c + "\n" + d + "\n";
+        }).reduce((a, b) => a + b, '');
+    let grupoContent = `<h1>${grupo.name}</h1> 
 
 ${s} `;
-}).reduce((a,b) => a+b, '');
+    return {
+        id: grupo.id,
+        name: grupo.name,
+        content: grupoContent
+    };
+});
 
-fs.writeFileSync('../asistentes-grupos/grupos.md', entries);
+entries.forEach(g => {
+    fs.writeFileSync('../asistentes-grupos/grupo' + g.id + '.md', g.content);
+});
+
 

@@ -1,0 +1,51 @@
+<h1>Grupo 10: tardones</h1> 
+
+- Gorka Moreno
+- Twitter : [gorkma](https://twitter.com/gorkma)
+- [Experiencia](http://ftt.programania.net/experiencias/8.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/476963726214856704/erDHC1lk_400x400.jpeg)
+- Jorge Uriarte
+- Twitter : [jorgeuriarte](https://twitter.com/jorgeuriarte)
+- [Experiencia](http://ftt.programania.net/experiencias/17.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/465627689316278273/IwNqQH3D_400x400.png)
+- Xabier Sáez de Ocáriz
+- Twitter : [ziraco](https://twitter.com/ziraco)
+- [Experiencia](http://ftt.programania.net/experiencias/19.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/969526453950930944/14BuJ2Oo_400x400.jpg)
+- Gonzalo Ayuso
+- Twitter : [gonzalo123](https://twitter.com/gonzalo123)
+- [Experiencia](http://ftt.programania.net/experiencias/32.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/916587733522505735/i5qB2ov1_400x400.jpg)
+- Javier Anaya Martinez
+- Twitter : [ja_anaya](https://twitter.com/ja_anaya)
+- [Experiencia](http://ftt.programania.net/experiencias/33.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/458891527192735744/UEsPOd99_400x400.jpeg)
+- Dani Latorre
+- Twitter : [dani_latorre](https://twitter.com/dani_latorre)
+- [Experiencia](http://ftt.programania.net/experiencias/43.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/937776489797423105/FdUGhAeA_400x400.jpg)
+- Alberto (APA)
+- Twitter : [apa42](https://twitter.com/apa42)
+- [Experiencia](http://ftt.programania.net/experiencias/44.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/979679562647920640/JMfdwpsw_400x400.jpg)
+- Alez Epelde
+- Twitter : [epelde](https://twitter.com/epelde)
+- [Experiencia](http://ftt.programania.net/experiencias/47.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/687995847775248385/t9Cpa8hh_400x400.jpg)
+- Guille
+- Twitter : [ggalmazor](https://twitter.com/ggalmazor)
+- [Experiencia](http://ftt.programania.net/experiencias/48.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/677852068564963328/flU5H3Ql_400x400.png)
+- David
+- Twitter : [penguinjournals](https://twitter.com/penguinjournals)
+- [Experiencia](http://ftt.programania.net/experiencias/49.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/778179192093638656/KaIgOStE_400x400.jpg)
+- Luis
+- Twitter : [artolamola](https://twitter.com/artolamola)
+- [Experiencia](http://ftt.programania.net/experiencias/50.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/3591049993/ca656ba8731304f95d199115fbb14397_400x400.png)
+- Alejandra Goicoechea 
+- Twitter : [rocknrollesque](https://twitter.com/rocknrollesque)
+- [Experiencia](http://ftt.programania.net/experiencias/51.html) 
+- ![Foto](https://pbs.twimg.com/profile_images/974378713587609600/nxQ3WC96_400x400.jpg)
+ 
