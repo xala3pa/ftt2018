@@ -38,26 +38,18 @@ const grupos = [
         name: 'Grupo 9: Otros'
     },
     {
-        id: '9',
+        id: '10',
         name: 'Grupo 10: tardones'
     }
 ];
 
 const entryToMarkdown = e => {
-    return `<li> 
- ${e.gsx$nombre.$t}
- Twitter : ${e.gsx$twitter.$t}
- Foto: ${e.gsx$foto.$t}
-</li>
-`;
+    const a = `- ${e.gsx$nombre.$t}`;
+    const b = `- Twitter : [${e.gsx$twitter.$t}](https://twitter.com/${e.gsx$twitter.$t})`;
+    const c = `- [Experiencia](http://ftt.programania.net/experiencias/${e.gsx$id.$t}.html) `;
+    const d = `- ![Foto](${e.gsx$foto.$t})`;
+    return a+"\n"+b+"\n"+c+"\n"+d+"\n";
 };
-
-const asistentesGruposHtml = grupos.map(grupo => {
-    return `<li><a href='/asistentes-grupos/${grupo.id}.html'>${grupo.name}</a></li>`;
-}).reduce((a,b) => a+b, '');
-
-fs.writeFileSync('../asistentes-grupos/grupos.md', `<ul>${asistentesGruposHtml}</ul>`);
-
 
 const asistentes = JSON.parse(fs.readFileSync(__dirname + '/asistentes.json', 'utf8'));
 
@@ -70,9 +62,10 @@ const entries = grupos.map( grupo => {
     let s = filtrados
         .map(entryToMarkdown)
         .reduce((a, b) => a + b, '');
-    return  "<h1>Grupo: "+grupo.name+"</h1> <ul>" + s + "</ul>";
-});
+    return  `<h1>Grupo: ${grupo.name}</h1> 
 
-entries.forEach((text, i) => {
-    fs.writeFileSync("../asistentes-grupos/" + (i + 1) + '.md', text)
-});
+${s} `;
+}).reduce((a,b) => a+b, '');
+
+fs.writeFileSync('../asistentes-grupos/grupos.md', entries);
+
