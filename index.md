@@ -11,9 +11,7 @@
 - reflexionar sobre **por qué** y **cuándo** hacer las cosas, porque ya hay suficiente información sobre **cómo** hacerlas.
 
 ## Lugares clave
-Mapa con la quedada del viernes, la salida del autobús y dónde está la sidrería
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46453.32859655072!2d-2.0089882000241124!3d43.30728728211763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd51affe3b68fe15%3A0xe43ec55994864649!2zU2FuIFNlYmFzdGnDoW4sIEd1aXDDunpjb2E!5e0!3m2!1ses!2ses!4v1521275038557" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bJnygWFUumvFgqNBv6HQfsUPszT_3Zu0" width="640" height="480"></iframe>
 ## Código de conducta
 No seas un/a capullo/a.
 
