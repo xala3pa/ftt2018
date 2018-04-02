@@ -7,10 +7,10 @@ const asistentesHtml  = asistentes.feed.entry
   <img src="${e.gsx$foto.$t}" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>${e.gsx$nombre.$t}</b></h4> 
-    <p><a href="/experiencias/${e.gsx$id.$t}.html">experiencia ${e.gsx$id.$t}</a></p> 
-    <p><a href="/asistentes-grupos/grupo${e.gsx$grupo.$t}.html">Grupo ${e.gsx$grupo.$t}</a></p> 
+    <p><a href="/experiencias/${e.gsx$id.$t}.html">experiencia ${e.gsx$id.$t}</a> 
+    <a href="/asistentes-grupos/grupo${e.gsx$grupo.$t}.html">Grupo ${e.gsx$grupo.$t}</a></p> 
   </div>
 </div>
 `).reduce((a,b) => a+b, '');
 
-fs.writeFileSync("../asistentes/asistentes.md", `${asistentesHtml}`);
+fs.writeFileSync("../asistentes/asistentes.md", `${asistentesHtml + '<div style="clear:both"></div>'}`);
