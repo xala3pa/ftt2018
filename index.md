@@ -11,10 +11,12 @@
 - la web es construida entre todos y en ella dejamos nuestro mensaje al mundo.
 - reflexionar sobre **por qué** y **cuándo** hacer las cosas, porque ya hay suficiente información sobre **cómo** hacerlas.
 
-## Lugares clave
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bJnygWFUumvFgqNBv6HQfsUPszT_3Zu0" width="640" height="480"></iframe>
 ## Código de conducta
-No seas un/a capullo/a.
+ - En general, no seas un/a capullo/a.
+ - Haz preguntas para hacer pensar a tu compañero, no para juzgarle o hacer que se sienta mal.
 
 ## Inscripción
 Este año el evento es un gran experimento. Así que sólo nos hemos atrevido a hacerlo por invitación directa. Si el resultado gusta, volveremos a abrir las inscripciones, al menos parcialmente. 
+
+## Lugares clave
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bJnygWFUumvFgqNBv6HQfsUPszT_3Zu0" width="640" height="480"></iframe>
