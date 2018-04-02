@@ -7,6 +7,7 @@
 
 ### Concepto
 - dinámica donde todo el mundo participa. Todo el mundo tiene la oportunidad de dar y recibir por igual.
+- experiencias reales, desde las trincheras.
 - la web es construida entre todos y en ella dejamos nuestro mensaje al mundo.
 - reflexionar sobre **por qué** y **cuándo** hacer las cosas, porque ya hay suficiente información sobre **cómo** hacerlas.
 
