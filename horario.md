@@ -1,5 +1,9 @@
 # Horario
 
+#### Materiales
+- low-tech a porrón: papel, boli, post-its, pizarra, rotuladores...
+- high-tech: un portátil por grupo
+
 ## Iteración 1 (1h 30 mins) : mejora tu experiencia
 
 - **input** : cada miembro tiene en papel su experiencia. 
