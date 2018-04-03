@@ -1,53 +1,54 @@
-- trade-offs
-- 8:30 los capitanes agrupan a sus equipos
-- 8:45 sale el bus
-- 9:00 llegamos sidrería
-- Hay café?
-- Hacer referencia a la experiencia de Toño: el objetivo no es criticar es reflexionar
-- Aclarar el objetivo, aclarar el proceso, repetir repetir repetir
-- 9:15 la gente se sienta directamente en sus mesas
-- ¿mapa con mesas ya asignada?
-- ¿primero trabajo por parejas?
-- Aclarar input
-- Aclarar output
-- 9:30-10:30 --- Fase I: Mejora tu experiencia (10 minutos, 60 minutos en total)
-- Presentaciones dentro del grupo
-- Aclarar input
-- Aclarar output
-- Cuéntale tu experiencia al resto
-- Todos ayudan a uno
-- Why es realmente un why?
-- When es realmente un when?
-- ¿Cuales eran las alternativas a lo que hiciste? ¿Qué opciones existen y por qué elegiste esa?
-- ¿Alguien conoce algún link que pueda aportar más?
-- La mejoras… ¿con papel y boli?
-- La transcribes a la web
-- 10:30 - xxxx - Metafase
-- Aclarar input
-- Aclarar output
-- Respuesta individual, puesta en común/ discusión / plasmar en la web
-- ¿Cuales son las claves para informar sobre una experiencia tecnológica?
-- ¿Qué preguntas hacer?
-- ¿Random time: sale gente al azar a contar su experiencia mejorada a todos?
-- Mientras se piensan en los insights del grupo, se actualizan las experiencias individuales de la web
-- Aclarar input
-- Aclarar output
-- Si alguien quiere quitar su experiencia, está en su derecho
-- 11:30-12:00
-- Presentación de los grupos, uno de cada grupo
-- Aclarar input
-- Aclarar output
-- ¿Cuál es la síntesis del grupo? ¿Qué tienen en común todas las experiencias?
-- Plasmarlo en la web
-- Embajador a otros equipos
-- Juntar a gente de cada equipo y que cuenten la info agregada los unos a los otros
-- Posibilidad de mejorar la web
+# Horario
 
-- Random time: salen grupos al azar a contar sus conclusiones como grupo
-- 14:00 restrospectiva en barrica
-- Aclarar input
-- Aclarar output
+## Iteración 1 (1h 30 mins) : mejora tu experiencia
 
+- *input* : cada miembro tiene en papel su experiencia. 
+- *output*: al terminar la fase, todos los miembros del grupo han podido profundizar su experiencia, y la tienen pintarrajeada a boli sobre la experiencia original
 
-- 14:30 comer
-- 18:00 a la parte vieja
+- muchos ayudan a uno: cada uno presenta su experiencia al grupo, y el grupo le ayuda a mejorar y a reflexionar
+- timeboxear: 
+    - 8 minutos de exposición por miembro del grupo.
+    - 5 minutos de ayuda a mejorar la experiencia
+    - durante el proceso la experiencia puede cambiar radicalmente si se quiere. Incluso se puede elegir una distinta si de repente se enciende la bombilla.
+- sin ordenador: se apuntan las mejoras directamente con papel y boli.
+
+#### Algunas posibles preguntas para ayudar a pensar:
+- El Por qué... ¿Es un por qué de verdad?
+- ¿Cómo era la situación antes y después de aplicar esa técnica/whatever?
+- ¿Qué alternativas a aplicarla? ¿se barajaron otras posibilidades?
+- El Cuándo... ¿Representa realmente el contexto?
+- ¿en qué contexto NO aplicarías la técnica?
+- ¿Qué precio pagamos al aplicarla? ¿Qué es "lo malo" que no nos cuentan? Trade-offs.
+- ¿Alguien conoce algún link que mole para el Cómo?
+
+## Iteración 2 (45 mins) : síntesis del grupo
+- *input*: las experiencias individuales
+- *output*: experiencia mejorada ha sido escrita en la web, síntesis del grupo escrita en la web.
+
+- (nota: durante el transcurso de ésta iteración, cada miembro coge el portátil y trascribe su experiencia a la web)
+- ¿Qué tienen en común las experiencias del grupo?
+    - ¿Qué tienen en común los por qués, los cuándos,... etc?
+- El grupo tiene un título. ¿se quiere cambiar?
+- Editar la web y añadir las conclusiones del grupo.
+
+## Iteración 3 (45 mins): embajador
+
+- (nota: en todo momento puedes acercarte a un ordenador y editar la web)
+- mezclar por parejas a la gente al azar
+- presentarse, contar la experiencia personal y las conclusiones del grupo.
+- apuntar posibles mejoras para ambas cosas
+
+## Iteración 4: todos juntos
+- *input*: la web mejorada
+- *output*: cada miembro del evento conoce la web, los grupos y las experiencias
+
+- abrir la web en el proyector
+- presentar alguna experiencia
+- el capitán de cada grupo presentar algunas conclusiones de los grupos
+
+## Cierre
+- tuitear la web al mundo
+- retrospectiva en barrica
+    - ¿qué cambiarías de la dinámica? ¿crees que ha funcionado?
+    - ¿qué tal la localización, el wifi, etc.?
+    - ¿qué reflexiones te llevas? ¿cuáles son las claves para informar de una experiencia en el mundo de la tecnología?
