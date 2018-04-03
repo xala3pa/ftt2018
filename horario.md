@@ -2,8 +2,8 @@
 
 ## Iteración 1 (1h 30 mins) : mejora tu experiencia
 
-- *input* : cada miembro tiene en papel su experiencia. 
-- *output*: al terminar la fase, todos los miembros del grupo han podido profundizar su experiencia, y la tienen pintarrajeada a boli sobre la experiencia original
+- **input** : cada miembro tiene en papel su experiencia. 
+- **output**: al terminar la fase, todos los miembros del grupo han podido profundizar su experiencia, y la tienen pintarrajeada a boli sobre la experiencia original
 
 - muchos ayudan a uno: cada uno presenta su experiencia al grupo, y el grupo le ayuda a mejorar y a reflexionar
 - timeboxear: 
@@ -22,8 +22,8 @@
 - ¿Alguien conoce algún link que mole para el Cómo?
 
 ## Iteración 2 (45 mins) : síntesis del grupo
-- *input*: las experiencias individuales
-- *output*: experiencia mejorada ha sido escrita en la web, síntesis del grupo escrita en la web.
+- **input**: las experiencias individuales
+- **output**: experiencia mejorada ha sido escrita en la web, síntesis del grupo escrita en la web.
 
 - (nota: durante el transcurso de ésta iteración, cada miembro coge el portátil y trascribe su experiencia a la web)
 - ¿Qué tienen en común las experiencias del grupo?
@@ -39,8 +39,8 @@
 - apuntar posibles mejoras para ambas cosas
 
 ## Iteración 4: todos juntos
-- *input*: la web mejorada
-- *output*: cada miembro del evento conoce la web, los grupos y las experiencias
+- **input**: la web mejorada
+- **output**: cada miembro del evento conoce la web, los grupos y las experiencias
 
 - abrir la web en el proyector
 - presentar alguna experiencia
