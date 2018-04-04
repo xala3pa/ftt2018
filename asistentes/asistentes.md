@@ -153,7 +153,7 @@
 </div>
 
 <div class="card">
-  <img src="" alt="Avatar" style="width:100%">
+  <img src="https://pbs.twimg.com/profile_images/1308769631/redes_rafa_400x400.JPG" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Rafa Fernández</b></h4> 
     <p><a href="/experiencias/52.html">experiencia 52</a>, 
