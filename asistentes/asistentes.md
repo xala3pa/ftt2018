@@ -216,7 +216,7 @@
 </div>
 
 <div class="card">
-  <img src="" alt="Avatar" style="width:100%">
+  <img src="https://pbs.twimg.com/profile_images/583224365912854528/UIYLAs3B_400x400.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Rodrigo Gómez</b></h4> 
     <p><a href="/experiencias/35.html">experiencia 35</a>, 
