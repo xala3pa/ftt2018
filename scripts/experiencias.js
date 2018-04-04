@@ -14,7 +14,7 @@ const entries  = formulario.feed.entry
     .map(e => {
         const email = e.gsx$tucorreoelectrógeno.$t;
         const quien = emailToId[email.toLowerCase()];
-        let titulo = e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t;
+        const titulo = e.gsx$cuéntanosalgotécnicatecnologíawhateverquehayasutilizadoentudíaadíaesteúltimoaño.$t;
         const text =  `# Quién
 ${quien.name}
 
