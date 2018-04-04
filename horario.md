@@ -56,3 +56,6 @@
     - ¿qué cambiarías de la dinámica? ¿crees que ha funcionado?
     - ¿qué tal la localización, el wifi, etc.?
     - ¿qué reflexiones te llevas? ¿cuáles son las claves para informar de una experiencia en el mundo de la tecnología?
+    - ¿has encontrado alojamiento a precio razonable? ¡Dinos dónde, por dios!
+
+## Cierre
