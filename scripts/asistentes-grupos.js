@@ -35,11 +35,11 @@ const grupos = [
     },
     {
         id: '9',
-        name: 'Grupo 9: Otros'
+        name: 'Grupo 9: Tech'
     },
     {
         id: '10',
-        name: 'Grupo 10: tardones'
+        name: 'Grupo 10: front-end 2'
     }
 ];
 

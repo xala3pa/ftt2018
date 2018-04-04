@@ -1,4 +1,4 @@
-# Grupo 9: Otros 
+# Grupo 9: Tech 
 
 Sergio Sáenz | [devjuggler](https://twitter.com/devjuggler) | [Experiencia](http://ftt.programania.net/experiencias/3.html) 
 Jerónimo López | [jerolba](https://twitter.com/jerolba) | [Experiencia](http://ftt.programania.net/experiencias/21.html) 

@@ -112,7 +112,7 @@
   <div class="container">
     <h4><b>Juan Miguel Imaz</b></h4> 
     <p><a href="/experiencias/26.html">experiencia 26</a>, 
-    <a href="/asistentes-grupos/grupo3.html">grupo 3</a></p> 
+    <a href="/asistentes-grupos/grupo10.html">grupo 10</a></p> 
   </div>
 </div>
 
@@ -130,7 +130,7 @@
   <div class="container">
     <h4><b>Javier Anaya Martinez</b></h4> 
     <p><a href="/experiencias/33.html">experiencia 33</a>, 
-    <a href="/asistentes-grupos/grupo3.html">grupo 3</a></p> 
+    <a href="/asistentes-grupos/grupo10.html">grupo 10</a></p> 
   </div>
 </div>
 
@@ -148,7 +148,7 @@
   <div class="container">
     <h4><b>Alex Epelde</b></h4> 
     <p><a href="/experiencias/47.html">experiencia 47</a>, 
-    <a href="/asistentes-grupos/grupo3.html">grupo 3</a></p> 
+    <a href="/asistentes-grupos/grupo10.html">grupo 10</a></p> 
   </div>
 </div>
 
