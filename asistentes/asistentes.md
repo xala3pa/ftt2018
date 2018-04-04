@@ -108,15 +108,6 @@
 </div>
 
 <div class="card">
-  <img src="https://pbs.twimg.com/profile_images/3653485339/9b55064607e837f5bd3a4a5a8763a725_400x400.jpeg" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>Diana Aceves</b></h4> 
-    <p><a href="/experiencias/24.html">experiencia 24</a>, 
-    <a href="/asistentes-grupos/grupo3.html">grupo 3</a></p> 
-  </div>
-</div>
-
-<div class="card">
   <img src="https://pbs.twimg.com/profile_images/927540298531655681/Dkj8j7C0_400x400.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Juan Miguel Imaz</b></h4> 
@@ -167,6 +158,15 @@
     <h4><b>Rafa Fernández</b></h4> 
     <p><a href="/experiencias/52.html">experiencia 52</a>, 
     <a href="/asistentes-grupos/grupo3.html">grupo 3</a></p> 
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://pbs.twimg.com/profile_images/3653485339/9b55064607e837f5bd3a4a5a8763a725_400x400.jpeg" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>Diana Aceves</b></h4> 
+    <p><a href="/experiencias/24.html">experiencia 24</a>, 
+    <a href="/asistentes-grupos/grupo4.html">grupo 4</a></p> 
   </div>
 </div>
 
@@ -427,7 +427,7 @@
   <div class="container">
     <h4><b>Gorka Moreno</b></h4> 
     <p><a href="/experiencias/8.html">experiencia 8</a>, 
-    <a href="/asistentes-grupos/grupo10.html">grupo 10</a></p> 
+    <a href="/asistentes-grupos/grupo9.html">grupo 9</a></p> 
   </div>
 </div>
 <div style="clear:both"></div>
