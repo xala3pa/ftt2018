@@ -9,15 +9,6 @@
 </div>
 
 <div class="card">
-  <img src="https://pbs.twimg.com/profile_images/799554794641915904/GLK1iYLQ_400x400.jpg" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>Isidro Merayo</b></h4> 
-    <p><a href="/experiencias/2.html">experiencia 2</a>, 
-    <a href="/asistentes-grupos/grupo1.html">grupo 1</a></p> 
-  </div>
-</div>
-
-<div class="card">
   <img src="https://pbs.twimg.com/profile_images/668697242589601792/EdIa-P9y_400x400.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Sergio Sáenz</b></h4> 
@@ -416,7 +407,7 @@
 <div class="card">
   <img src="https://pbs.twimg.com/profile_images/687995847775248385/t9Cpa8hh_400x400.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <h4><b>Alez Epelde</b></h4> 
+    <h4><b>Alex Epelde</b></h4> 
     <p><a href="/experiencias/47.html">experiencia 47</a>, 
     <a href="/asistentes-grupos/grupo10.html">grupo 10</a></p> 
   </div>
@@ -450,19 +441,10 @@
 </div>
 
 <div class="card">
-  <img src="https://pbs.twimg.com/profile_images/974378713587609600/nxQ3WC96_400x400.jpg" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>Alejandra Goicoechea </b></h4> 
-    <p><a href="/experiencias/51.html">experiencia 51</a>, 
-    <a href="/asistentes-grupos/grupo10.html">grupo 10</a></p> 
-  </div>
-</div>
-
-<div class="card">
   <img src="https://pbs.twimg.com/profile_images/378800000858447725/YqAFNvCr_400x400.jpeg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Jimena Martínez</b></h4> 
-    <p><a href="/experiencias/52.html">experiencia 52</a>, 
+    <p><a href="/experiencias/51.html">experiencia 51</a>, 
     <a href="/asistentes-grupos/grupo2.html">grupo 2</a></p> 
   </div>
 </div>
@@ -471,7 +453,7 @@
   <img src="" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Rafa Fernández</b></h4> 
-    <p><a href="/experiencias/53.html">experiencia 53</a>, 
+    <p><a href="/experiencias/52.html">experiencia 52</a>, 
     <a href="/asistentes-grupos/grupo3.html">grupo 3</a></p> 
   </div>
 </div>
