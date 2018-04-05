@@ -10,13 +10,10 @@
 - high-tech: un portátil por grupo
 
 ## Iteración 1 (1h 30 mins) : mejora tu experiencia
-
 #### Input
 Cada miembro tiene en papel su experiencia (enviada previamente via Google Forms, e imprimida por la organización)
-
 #### Output 
 **Al terminar la fase**, todos los miembros del grupo han podido profundizar su experiencia, y la tienen pintarrajeada a boli sobre la experiencia original
-
 ### Notas
 - muchos ayudan a uno: cada uno presenta su experiencia al grupo, y el grupo le ayuda a mejorar y a reflexionar
 - timeboxear: 
@@ -37,10 +34,8 @@ Cada miembro tiene en papel su experiencia (enviada previamente via Google Forms
 ## Iteración 2 (45 mins) : síntesis del grupo
 #### Input
 Las experiencias individuales pintarrajeadas a boli.
-
 #### Output
 **Al terminar la fase**, experiencia mejorada ha sido escrita en la web, síntesis del grupo escrita en la web.
-
 ### Notas
 - (nota: durante el transcurso de ésta iteración, cada miembro coge el portátil y trascribe su experiencia a la web)
 - ¿Qué tienen en común las experiencias del grupo?
@@ -49,19 +44,16 @@ Las experiencias individuales pintarrajeadas a boli.
 - Editar la web y añadir las conclusiones del grupo.
 
 ## Iteración 3 (45 mins): embajador
-
 - (**nota**: en todo momento puedes acercarte a un ordenador y editar la web)
 - mezclar por parejas a la gente al azar
 - presentarse, contar la experiencia personal y las conclusiones del grupo.
 - apuntar posibles mejoras para ambas cosas
-
 ## Iteración 4: todos juntos
 #### input
 La web mejorada
-
 #### Output
 **Al terminar la fase**, Cada asistente al evento conoce la web, los grupos y las experiencias
-
+### Notas
 - abrir la web en el proyector
 - presentar alguna experiencia
 - el capitán de cada grupo presentar algunas conclusiones de los grupos
