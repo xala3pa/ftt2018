@@ -11,12 +11,13 @@
 
 ## Iteración 1 (1h 30 mins) : mejora tu experiencia
 
-#### input
+#### Input
 Cada miembro tiene en papel su experiencia (enviada previamente via Google Forms, e imprimida por la organización)
 
-#### output 
-Al terminar la fase, todos los miembros del grupo han podido profundizar su experiencia, y la tienen pintarrajeada a boli sobre la experiencia original
+#### Output 
+**Al terminar la fase**, todos los miembros del grupo han podido profundizar su experiencia, y la tienen pintarrajeada a boli sobre la experiencia original
 
+### Notas
 - muchos ayudan a uno: cada uno presenta su experiencia al grupo, y el grupo le ayuda a mejorar y a reflexionar
 - timeboxear: 
     - 8 minutos de exposición por miembro del grupo.
