@@ -1,5 +1,10 @@
 # Horario
 
+## Mini introducción
+
+- Ésta web contiene las 53 experiencias de los asistentes al ftt2018. Dedicaremos 4 iteraciones, con dinámicas muy concretas, a profundizar en nuestras experiencias y mejorar la web.
+- El objetivo final es tener un catálogo de experiencias "desde las trincheras" del que otros desarrolladores se puedan beneficiar.
+
 #### Materiales
 - low-tech a porrón: papel, boli, post-its, pizarra, rotuladores...
 - high-tech: un portátil por grupo
