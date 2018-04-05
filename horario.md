@@ -35,9 +35,13 @@ Cada miembro tiene en papel su experiencia (enviada previamente via Google Forms
 - ¿Alguien conoce algún link que mole para el Cómo?
 
 ## Iteración 2 (45 mins) : síntesis del grupo
-- **input**: las experiencias individuales
-- **output**: experiencia mejorada ha sido escrita en la web, síntesis del grupo escrita en la web.
+#### Input
+Las experiencias individuales pintarrajeadas a boli.
 
+#### Output
+**Al terminar la fase**, experiencia mejorada ha sido escrita en la web, síntesis del grupo escrita en la web.
+
+### Notas
 - (nota: durante el transcurso de ésta iteración, cada miembro coge el portátil y trascribe su experiencia a la web)
 - ¿Qué tienen en común las experiencias del grupo?
     - ¿Qué tienen en común los por qués, los cuándos,... etc?
@@ -46,14 +50,17 @@ Cada miembro tiene en papel su experiencia (enviada previamente via Google Forms
 
 ## Iteración 3 (45 mins): embajador
 
-- (nota: en todo momento puedes acercarte a un ordenador y editar la web)
+- (**nota**: en todo momento puedes acercarte a un ordenador y editar la web)
 - mezclar por parejas a la gente al azar
 - presentarse, contar la experiencia personal y las conclusiones del grupo.
 - apuntar posibles mejoras para ambas cosas
 
 ## Iteración 4: todos juntos
-- **input**: la web mejorada
-- **output**: cada miembro del evento conoce la web, los grupos y las experiencias
+#### input
+La web mejorada
+
+#### Output
+**Al terminar la fase**, Cada asistente al evento conoce la web, los grupos y las experiencias
 
 - abrir la web en el proyector
 - presentar alguna experiencia
@@ -66,5 +73,3 @@ Cada miembro tiene en papel su experiencia (enviada previamente via Google Forms
     - ¿qué tal la localización, el wifi, etc.?
     - ¿qué reflexiones te llevas? ¿cuáles son las claves para informar de una experiencia en el mundo de la tecnología?
     - ¿has encontrado alojamiento a precio razonable? ¡Dinos dónde, por dios!
-
-## Cierre
