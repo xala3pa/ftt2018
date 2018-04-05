@@ -49,7 +49,7 @@ Las experiencias individuales pintarrajeadas a boli.
 - presentarse, contar la experiencia personal y las conclusiones del grupo.
 - apuntar posibles mejoras para ambas cosas
 ## Iteración 4: todos juntos
-#### input
+#### Input
 La web mejorada
 #### Output
 **Al terminar la fase**, Cada asistente al evento conoce la web, los grupos y las experiencias
