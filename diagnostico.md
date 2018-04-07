@@ -12,6 +12,7 @@
 - reflexionar sobre **por qué** y **cuándo** hacer las cosas, porque ya hay suficiente información sobre **cómo** hacerlas.
 - la web es construida entre todos y en ella dejamos nuestro mensaje al mundo.
 - la web no tiene valor previo (puesto que el evento no es secreto, pero no se promociona), la web tiene valor a posteriori
+- no hay promoción, ni patrocinio, ni vanity metrics de ningún tipo
 
 ## Código de conducta
  - En general, no seas un/a capullo/a.
