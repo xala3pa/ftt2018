@@ -48,6 +48,7 @@ Las experiencias individuales pintarrajeadas a boli.
 - mezclar por parejas a la gente al azar
 - presentarse, contar la experiencia personal y las conclusiones del grupo.
 - apuntar posibles mejoras para ambas cosas
+
 ## Iteración 4: todos juntos
 #### Input
 La web mejorada
