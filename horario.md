@@ -35,7 +35,7 @@ Cada miembro tiene en papel su experiencia (enviada previamente via Google Forms
 #### Input
 Las experiencias individuales pintarrajeadas a boli.
 #### Output
-**Al terminar la fase**, experiencia mejorada ha sido escrita en la web, síntesis del grupo escrita en la web.
+**Al terminar la fase**, cada asistentes habrá escrito la experiencia mejorada en la web, y el grupo habrá escrito una síntesis de sus experiencias (que puede ser todo lo corta o larga que se quiera).
 ### Notas
 - (nota: durante el transcurso de ésta iteración, cada miembro coge el portátil y trascribe su experiencia a la web)
 - ¿Qué tienen en común las experiencias del grupo?
