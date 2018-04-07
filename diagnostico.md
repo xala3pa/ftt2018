@@ -6,10 +6,12 @@
 - dado que para escuchar una charla me puedo poner youtube, ir a un evento tiene que aportarme más...o al menos algo distinto.
 
 ### Concepto
+
 - dinámica donde todo el mundo participa. Todo el mundo tiene la oportunidad de dar y recibir por igual.
-- experiencias reales, desde las trincheras.
-- la web es construida entre todos y en ella dejamos nuestro mensaje al mundo.
+- experiencias vividas: desde las trincheras.
 - reflexionar sobre **por qué** y **cuándo** hacer las cosas, porque ya hay suficiente información sobre **cómo** hacerlas.
+- la web es construida entre todos y en ella dejamos nuestro mensaje al mundo.
+- la web no tiene valor previo (puesto que el evento no es secreto, pero no se promociona), la web tiene valor a posteriori
 
 ## Código de conducta
  - En general, no seas un/a capullo/a.
