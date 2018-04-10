@@ -85,7 +85,7 @@
   <div class="container">
     <h4><b>Irune prado</b></h4> 
     <p><a href="/experiencias/41.html">experiencia 41</a>, 
-    <a href="/asistentes-grupos/grupo2.html">grupo 2</a></p> 
+    <a href="/asistentes-grupos/grupo9.html">grupo 9</a></p> 
   </div>
 </div>
 
@@ -436,7 +436,7 @@
   <div class="container">
     <h4><b>Julen</b></h4> 
     <p><a href="/experiencias/53.html">experiencia 53</a>, 
-    <a href="/asistentes-grupos/grupo.html">grupo </a></p> 
+    <a href="/asistentes-grupos/grupo10.html">grupo 10</a></p> 
   </div>
 </div>
 <div style="clear:both"></div>
