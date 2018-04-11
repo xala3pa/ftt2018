@@ -121,7 +121,7 @@
   <div class="container">
     <h4><b>Fernando Fariña</b></h4> 
     <p><a href="/experiencias/40.html">experiencia 40</a>, 
-    <a href="/asistentes-grupos/grupo3.html">grupo 3</a></p> 
+    <a href="/asistentes-grupos/grupo9.html">grupo 9</a></p> 
   </div>
 </div>
 
