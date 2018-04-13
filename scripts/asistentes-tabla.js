@@ -10,6 +10,7 @@ const asistentesHtml  = asistentes.feed.entry
 </td>
 <td style="border-bottom:thin solid black">
 <b>${e.gsx$nombre.$t}</b>
+( ${e.gsx$twitter.$t} )
 </td>
 <td style="border-bottom:thin solid black">${e.gsx$grupo.$t}</td>
 <td style="border-bottom:thin solid black"></td>
