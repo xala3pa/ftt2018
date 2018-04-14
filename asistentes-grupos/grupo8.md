@@ -8,10 +8,24 @@ Usue Napal | [iusTo](https://twitter.com/iusTo) | [Experiencia](http://ftt.progr
 
 
 ## Conclusiones del grupo
-- hay que darle importancia a elegir las herramientas correctas y librerías que te faciliten tanto el diseño como la funcionalidad.
-- Valorar si te compensa que sea Nativa o no, hay que tener en cuenta como es tu equipo, como va a ser la aplicación.
+
+- Uno de los factores comunes que hemos detectado es la elección de herramientas/librerias/frameworks que facilita el desarrollo de aplicaciones móviles desde librerias para leer códigos de barras hasta herramientas para ayudarte en la comunicación entre el trabajo de diseño y de programación.
+
+- Además, una de las grandes decisiones en el desarrollo de apps es la elección entre nativa o hibrida. A esto ha ayudado la aparición de nuevos frameworks que estan en un paso intermedio entre hibridas tipo Cordova y las nativas como NativeScript o ReactNative, para la tomar la decisión, es importante conocer el equipo técnico que va a desarrollar la aplicación, para adaptarse a sus conocimientos, aunque también hay que tener en cuenta, que el resultado final, va a ser inferior a los desarrollos nativos.
+
+- Listado de herramientas:
+  - Herramientas para la integración del UI
+    * Zeplin para el traspaso de material de Diseño a desarrollo
+    * Sketch Para realizar el Diseño de las apps
+    * MarvelApp / InvisionApp para reproducir los prototipos de los diseños en móvil antes del desarrollo.
 
 
-Una de los factores comunes que hemos detectado es la elección de herramientas/librerias/frameworks facilita el desarrollo de aplicaciones móviles desde librerias para leer codigos de barras hasta herramientas para ayudarte en la comunicación entre el trabajo de diseño y de programación.
+  - Frameworks de desarrollo seminativo basado en lenguajes Web:
+    * NativeScript
+    * ReactNative
 
-Además, una de las grandes decisiones en el desarrollo de apps es la elección entre nativa o hibrida. A esto ha ayudado la aparición de nuevos frameworks que estan en un paso intermedio entre hibridas tipo Cordova y las nativas como NativeScript o ReactNative.
+
+  - Librerías:
+    * SCANDIT Librería de pago para integrar en iOS la lectura de Barcodes, además de lectores de Documentos de identidad.
+    * La opción Nativa para leer Barcodes es utilizar la librería NSCapture.
+    * ZXING Librería para integrar en Android la lectura de Barcodes
