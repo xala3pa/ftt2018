@@ -11,7 +11,9 @@
 
 Todas las experiencias están relacionadas con prácticas técnicas y la mayoría son similares (la experiencia de APA es la más diferente) pero hay un par de patrones comunes:
 
-### Relacionadas con gestión del cambio. En general, cambios en requisitos de negocio:
+### Relacionadas con gestión del cambio. 
+
+En general, cambios en requisitos de negocio:
 
 * Pablo: querer soportar evolución de un proyecto
 * Nestor: querer tener una app que soporte cambios, que me permita tomar el mínimo número de decisiones posibles de partida
@@ -20,6 +22,8 @@ Todas las experiencias están relacionadas con prácticas técnicas y la mayorí
 * Beñat: decisiones ante una nueva funcionalidad, que condicionan el desarrollo y la flexibilidad/evolución de hacer cambios futuros. La flexibilidad implica costes disparados dependiendo de la decisión.
 * Apa: nuevo miembro del equipo con un nuevo lenguaje
 
+### Ideas
+
 * Decisiones de negocio producen cambios. 
 * Decisiones al principio determinan el peso del cambio, condicionan facilidad de cambio y coste. 
 * Dualidad flexibilidad/coste. Más flexibilidad implica más coste.
@@ -27,10 +31,15 @@ Todas las experiencias están relacionadas con prácticas técnicas y la mayorí
 * Intentas tomar la decisión que te comprometa menos. 
 * Decisiones deliberadas y conscientes. 
 * **Escribir el software para intentar minimizar el coste de añadir flexibilidad más adelante**.
+* Pain driven development. Visualizar el dolor para poder cambiarlo.
+* Objetivos medibles sobre lo que quieres medir.
 
 Pero tiene sentido sólo en algunos casos. La importancia del objetivo del proyecto (producto, consultoría). Hemos escrito algunas ideas para ayudar a aclarar este problema (quién se va a comer el proyecto?...)
 
-## Reflexiones sobre la aplicación de una práctica
+### Reflexiones sobre la aplicación de una práctica
+
+* Buscar casos prácticos sobre los que todo el equipo pueda cambiarlo.
+* <TODO>
 
 # Resumen general
 
