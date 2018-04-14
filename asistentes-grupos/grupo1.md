@@ -1,4 +1,4 @@
-# Grupo 1: trolleando microservicios 
+# Grupo 1: Microservices from the trenches
 
 Asier Ramos | [uthopiko](https://twitter.com/uthopiko) | [Experiencia](http://ftt.programania.net/experiencias/1.html) 
 Joaquin Engelmo Moriche | [kinisoftware](https://twitter.com/kinisoftware) | [Experiencia](http://ftt.programania.net/experiencias/11.html) 
