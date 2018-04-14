@@ -11,5 +11,15 @@ Métodos y herramientas para equipos sostenibles. Ni alto rendimiento ni pollas.
 
 
 ## Conclusiones del grupo
+- Medir / Explicitar / visualizar, como un mantra
 - ...
-- ...
+
+## Links interesantes
+[https://theitriskmanager.wordpress.com/2013/11/24/introducing-staff-liquidity-1-of-n/]
+[https://www.linkedin.com/pulse/20141020101636-18398652-why-your-teams-competency-matrix-may-not-match-reality-and-how-to-fix-it/]
+[https://management30.com/practice/competency-matrix/]
+[https://www.crisp.se/gratis-material-och-guider/a3-template] [https://en.wikipedia.org/wiki/A3_problem_solving] [https://www.toolshero.com/problem-solving/a3-thinking/]
+
+## Libros
+- Drive
+
