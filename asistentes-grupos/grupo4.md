@@ -1,4 +1,4 @@
-# Grupo 4: equipos 
+# Grupo 4: La Puta Gente 
 
 Fran Mosteiro | [fran_mosteiro](https://twitter.com/fran_mosteiro) | [Experiencia](http://ftt.programania.net/experiencias/7.html) 
 Xabier Sáez de Ocáriz | [ziraco](https://twitter.com/ziraco) | [Experiencia](http://ftt.programania.net/experiencias/19.html) 
