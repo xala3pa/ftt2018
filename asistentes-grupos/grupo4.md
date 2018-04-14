@@ -7,6 +7,9 @@ Jose Ignacio Andrés | [joserobleda](https://twitter.com/joserobleda) | [Experie
 Eduardo ferro | [eferro](https://twitter.com/eferro) | [Experiencia](http://ftt.programania.net/experiencias/38.html) 
  
 
+Métodos y herramientas para equipos sostenibles. Ni alto rendimiento ni pollas.  
+
+
 ## Conclusiones del grupo
 - ...
 - ...
